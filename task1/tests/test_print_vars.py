@@ -16,5 +16,5 @@ def test_example():
     a = 1
     b = CustomClass()
     c = [1, 2, 3]
-    d = pandas.read_csv("my_file.csv")
+    d = pandas.read_csv("tests/my_file.csv")
     print_vars()
