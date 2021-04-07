@@ -1,7 +1,6 @@
 from collections import Counter
 
 import pandas
-
 from src import print_vars
 
 
